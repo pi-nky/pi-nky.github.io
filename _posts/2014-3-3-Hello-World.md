@@ -1,7 +1,7 @@
 ---
 layout: post
 title: solam
-published: true
+published: false
 ---
 
 # solam da
