@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 i would have preferred a podcast but i've got no homies so this must do for now.
