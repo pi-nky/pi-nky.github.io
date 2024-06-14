@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 
+permalink: /About/
 ---
 
-حتی فکرشم نکن 
+i would have preferred a podcast but i've got no homies so this must do for now.
 
 
-برادر
+here is my email if you are a female... im 5'9 and i like dogs.
+
+mahyargholipor64@gmail.com 
 
